@@ -1,0 +1,67 @@
+
+.navbar-default .navbar-brand {
+    color:black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.navbar-default .navbar-nav > li > a  {
+    background: transparent;
+    font-weight: normal;
+    line-height: 20px;
+    color: #46a7e7;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+    background: transparent;
+    font-weight: bold;
+    color: #46a7e7;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+    background: transparent;
+    font-weight: bold;
+    color: #46a7e7;
+}
+
+
+.form_style {
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding:20px 20px 0px 20px;
+    max-height: 550px;
+}
+
+.form_style label {
+    color: black;
+    font-size: 12px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.login-box-title {
+    color: black;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.form_error_msg{
+    margin-left:20px;
+    color:red;
+}
+
+
+.glyphicon-remove::before {
+    content: "";
+}
+
+
+.glyphicon-ok::before {
+    content: "";
+}
+
+.glyphicon-warning-sign::before {
+    content: "";
+}

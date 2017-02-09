@@ -1,0 +1,8 @@
+{
+  "host" : "162.209.51.12",
+  "port" : 3306,
+  "dialect" : "mysql",
+  "database" : "weatherapp",
+  "username" : "root",
+  "password" : "Columbus1s"
+}
